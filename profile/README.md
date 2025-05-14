@@ -4,7 +4,7 @@ This is a Github Orginisation created by CharlieDoesStuff to host various projec
 
 ## Projects
 
-The projects hosted here are:
+The Open Source projects hosted here are:
 
 * Gemstone: A Decky Plugin for SteamOS for adding various Streaming Services and a modified Junk Store, making the ultimate console experience.
 * Bliss Browser: An (eventually) Open Source Browser build referencing Ladybird and Tor/Firefox, designed for maximum privacy.
