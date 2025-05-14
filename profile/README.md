@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is a Github Orginisation created by [CharlieDoesStuff](https//x.com/charlieduzstuf) to host various projects (both Proprietary/Closed Source and Licensed/Open Source) and holds the rights to said projects hosted/created by this Orginisation, however rights for the actual code in many of the projects are under various Open Source licenses and are free to use by default.
+This is a Github Orginisation created by [CharlieDoesStuff] to host various projects (both Proprietary/Closed Source and Licensed/Open Source) and holds the rights to said projects hosted/created by this Orginisation, however rights for the actual code in many of the projects are under various Open Source licenses and are free to use by default.
 
 ## Projects
 
