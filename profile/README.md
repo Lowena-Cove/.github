@@ -18,6 +18,7 @@ The Open Source projects hosted here are:
 * BlissOS: An (eventually) Open Source OS using various Open Source Non-Linux browsers as reference to keep everything you do 100% private.
 * Goliath: A massive Compatibility Layer designed for all major Operating Systems and their hardware, this would work in conjunction with BlissOS to make it superior to most other Operating Systems.
 
-## Contributing
+Most of these projects will likely be dispersed and given to new Owners, especially those that are modifying pre-existing Software.
 
+## Contributing
 If you wish to contribute, feel free to start a Discussion or Create a PR. 
