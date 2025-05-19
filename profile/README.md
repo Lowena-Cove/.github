@@ -15,7 +15,7 @@ The Open Source projects hosted here are:
 * Blissocial Client: Another backburner project to combine all messaging platforms into one frontend.
 * Tapestry: Also on the backburner, AI colourisation tool with extra steps.
 * Cashnt: A POC Crypto Currency, also on the backburner.
-* BlissOS: An (eventually) Open Source OS using various Open Source Non-Linux browsers as reference to keep everything you do 100% private.
+* BlissOS: An (eventually) Open Source OS using various Open Source Non-Linux OSes as reference to keep everything you do 100% private.
 * Goliath: A massive Compatibility Layer designed for all major Operating Systems and their hardware, this would work in conjunction with BlissOS to make it superior to most other Operating Systems.
 
 Most of these projects will likely be dispersed and given to new Owners, especially those that are modifying pre-existing Software.
