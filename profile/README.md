@@ -11,7 +11,7 @@ The Open Source projects hosted here are:
 * Goliath: A massive Compatibility Layer designed for all major Operating Systems and their hardware, this would work in conjunction with BlissOS to make it superior to most other Operating Systems.
 * GamepadOS: A branch of BlissOS made specifically for Gaming and TV.
 
-Most of these projects will likely be dispersed and given to new Owners, especially those that are modifying pre-existing Software.
+
 
 ## Contributing
 If you wish to contribute, feel free to start a Discussion or Create a PR. 
